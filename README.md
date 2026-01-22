@@ -1,9 +1,9 @@
 # Hi there, I'm Anas Okasha! 👋
-### Full Stack Developer | Next.js 15 & Strapi V5 Enthusiast
+### Full Stack Developer | Next.js 16 & Strapi V5 Enthusiast
 
 I am a passionate Full Stack developer who turned a background in **Chemistry** 🧪 into a formula for building scalable, high-performance web applications. I specialize in crafting SaaS products and E-commerce solutions using the latest tech.
 
-> *"Move your web to the NEXT Level."* 🚀
+> *"Move your web to the ENHANCED Level."* 🚀
 
 ---
 
