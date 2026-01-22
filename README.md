@@ -33,9 +33,9 @@ I am a passionate Full Stack developer who turned a background in **Chemistry** 
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **PicPerfect AI** 🎨 | SaaS AI image editing & generation platform with auth & payments. | `Next.js 15` `TS` `Cloudinary` `MongoDB` | [Live Demo](https://pic-perfect-ai.vercel.app) |
-| **Handle-Mogie** 🛒 | Full-stack e-commerce for handmade products with custom checkout. | `Next.js 15` `Prisma` `PostgreSQL` | [Live Demo](https://handle-mogie.vercel.app) |
-| **TripletAI** 🤖 | Real-time platform for managing Supervised Learning Triplets. | `Next.js 15` `Liveblocks` `Tailwind` | [Live Demo](https://triplet-ai.vercel.app) |
+| **PicPerfect AI** 🎨 | SaaS AI image editing & generation platform with auth & payments. | `Next.js 15` `TS` `Cloudinary` `MongoDB` | [Live Demo](#) |
+| **Handle-Mogie** 🛒 | Full-stack e-commerce for handmade products with custom checkout. | `Next.js 15` `Prisma` `PostgreSQL` | [Live Demo](#) |
+| **TripletAI** 🤖 | Real-time platform for managing Supervised Learning Triplets. | `Next.js 15` `Liveblocks` `Tailwind` | [Live Demo](#) |
 
 ---
 
