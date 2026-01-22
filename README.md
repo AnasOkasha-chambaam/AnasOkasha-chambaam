@@ -56,6 +56,4 @@ I am a passionate Full Stack developer who turned a background in **Chemistry** 
 <a href="https://x.com/AnasOkasha7">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
+
